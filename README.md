@@ -1,13 +1,17 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
-
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Funcionamento da aplicação
+⚠ **Atenção:** ⚠
+Para rodar a aplicação é necessário executar o comando abaixo.
+Instalação de Dependência.
+```sh
+npm install
+```
+Para rodar a aplicação é necessário executar o comando abaixo.
+```sh
+npm start
+```
+# Sobre os testes
+## Executando todos os testes
+Para poder executar os testes, inicie sua aplicação com o comando `npm test` e **todos** os seus testes serão executados.
+## Executando um teste específico
+Para executar um teste expecífico, basta executar o comando `npm test nome-do-teste`.
+Ex: Para executar o teste referente ao **login**, basta digitar `npm test login`.
